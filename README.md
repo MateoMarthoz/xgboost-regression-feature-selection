@@ -1,7 +1,5 @@
 # Data Science Challenge
 
-**Mateo Marthoz Blanco** · k23080165
-
 Regression project predicting a continuous target (`outcome`) from a mixed numerical and categorical dataset (10,000 rows, 31 features). Work spans exploratory analysis, feature selection and engineering, comparison of linear and ensemble models, and hyperparameter tuning with a final XGBoost model.
 
 ## Exploratory analysis
